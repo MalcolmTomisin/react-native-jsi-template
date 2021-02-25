@@ -1,19 +1,3 @@
-# react-native-sequel
+# react-native-jsi-template
 
-the last database you will ever need
-
-## Installation
-
-```sh
-npm install react-native-sequel
-```
-
-## Usage
-
-## Contributing
-
-See the [contributing guide](CONTRIBUTING.md) to learn how to contribute to the repository and the development workflow.
-
-## License
-
-MIT
+This is a sample repo for a react-native JSI module, the JSI is orders of magnitude faster than traditional react-native modules, you can find a companion post that explains how to create your JSI interface in my [blog](https://ospfranco.github.io/post/2021/02/24/how-to-create-a-javascript-jsi-module/)
