@@ -6,9 +6,9 @@ import { multiplyA } from 'react-native-sequel';
 export default function App() {
   const [result, setResult] = React.useState<number | undefined>();
 
-  React.useEffect(() => {
-    setResult(multiplyA());
-  }, []);
+  // React.useEffect(() => {
+  //   setResult(multiplyA());
+  // }, []);
 
   return (
     <View style={styles.container}>
